@@ -23,4 +23,3 @@ Ziel war es, eine WLAN-fähige Kamera mit Livestream, segmentierter Aufnahme und
 3. Dieses Repository klonen:
    ```bash
    git clone <https://github.com/Reichi1903/Raspberry-pi-Cam-v3-Zero-2W-Stream/blob/main/install_full_camera_segmented.sh>
-   cd <Ordnername>
